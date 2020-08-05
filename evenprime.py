@@ -10,8 +10,7 @@ if(b==1):
             if(a%x ==0):
                 i=1
                 break
-        else:
-            i=0
+            
     if(i==1):
         print("Not Prime")
     else:
